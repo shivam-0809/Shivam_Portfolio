@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.left {
+    font-size: 20px;
+}
+
+.right ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.right ul li {
+    display: inline;
+    margin-left: 38px;
+}
+
+.right ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.education {
+    margin-top: 20px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.footer-content {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
